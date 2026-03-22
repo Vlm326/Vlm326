@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vlm326&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vlm326&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## About me
@@ -64,5 +59,4 @@ Interested in backend development, systems programming, and software architectur
   </a>
 </p>
 
-<!-- Optional: this image works only after you set up the snake GitHub Action -->
-<!-- <img src="https://raw.githubusercontent.com/vlm326/vlm326/output/github-contribution-grid-snake.svg" alt="snake" /> -->
+<img src="https://raw.githubusercontent.com/vlm326/vlm326/output/github-contribution-grid-snake.svg" alt="snake" />
