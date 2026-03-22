@@ -59,4 +59,4 @@ Interested in backend development, systems programming, and software architectur
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/vlm326/vlm326/output/github-contribution-grid-snake.svg" alt="snake" />
+![snake gif](https://raw.githubusercontent.com/vlm326/vlm326/output/github-contribution-grid-snake-dark.svg)
