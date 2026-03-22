@@ -17,4 +17,5 @@ Interested in backend development, systems programming, and software architectur
 - Telegram: @vlm326
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlm326)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=vlm326&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlm326&layout=compact&theme=tokyonight)
