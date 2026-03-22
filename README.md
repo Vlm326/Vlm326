@@ -1,9 +1,22 @@
 # 👋 Hi, I'm Vladislav Moroz
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vlm326&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vlm326&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## About me
+
 SPbU student.  
 Interested in backend development, systems programming, and software architecture.
 
 ## 🧠 Interests
+
 - Backend development
 - Low-level and system programming
 - Software architecture
@@ -21,6 +34,25 @@ Interested in backend development, systems programming, and software architectur
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vlm326&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlm326&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vlm326&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 🚀 Featured project
+
+<p align="center">
+  <a href="https://github.com/vlm326/MiniML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vlm326&repo=MiniML&theme=tokyonight&hide_border=true" alt="MiniML" />
+  </a>
+</p>
+
 ## 📫 Contacts
 
 <p align="left">
@@ -32,19 +64,5 @@ Interested in backend development, systems programming, and software architectur
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vlm326&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vlm326&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlm326&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-## ⚡ GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vlm326&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<!-- Optional: this image works only after you set up the snake GitHub Action -->
+<!-- <img src="https://raw.githubusercontent.com/vlm326/vlm326/output/github-contribution-grid-snake.svg" alt="snake" /> -->
