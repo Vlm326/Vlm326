@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vlm326&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 ---
 
 ## About me
@@ -59,4 +60,6 @@ Interested in backend development, systems programming, and software architectur
   </a>
 </p>
 
-![snake gif](https://raw.githubusercontent.com/vlm326/vlm326/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vlm326/vlm326/output/github-contribution-grid-snake-dark.svg" alt="snake gif" height="120" />
+</p>
