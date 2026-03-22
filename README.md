@@ -3,10 +3,6 @@
 SPbU student.  
 Interested in backend development, systems programming, and software architecture.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vlm326&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
 ## 🧠 Interests
 - Backend development
 - Low-level and system programming
@@ -34,6 +30,10 @@ Interested in backend development, systems programming, and software architectur
   <a href="mailto:morozvv75@gmail.com">
     <img src="https://img.shields.io/badge/Email-morozvv75%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vlm326&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ## 📊 GitHub Stats
