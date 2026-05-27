@@ -50,24 +50,6 @@
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vlm326&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 🚀 Featured Project
-
-<p align="center">
-  <a href="https://github.com/vlm326/MiniML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vlm326&repo=MiniML&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 # 📫 Contacts
 
 <p align="center">
@@ -79,4 +61,3 @@
     <img src="https://img.shields.io/badge/Gmail-morozvv75%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-```
