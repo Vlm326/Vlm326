@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vladislav Moroz
+#  Hi, I'm Vladislav Moroz
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Developer;Programming+Enthusiast;Rust+%7C+C+%7C+C%23+%7C+Kotlin;SPbU+Student" alt="Typing SVG" />
@@ -10,17 +10,17 @@
 
 ---
 
-# 🧠 About me
+#  About me
 
-- 🎓 SPbU student
-- ⚙️ Interested in backend development and systems programming
-- 🦀 Rust enjoyer
-- 🐧 Fedora Linux user
-- 🏗️ Learning software architecture and compiler design
+-  SPbU student
+-  Interested in backend development and systems programming
+-  Rust enjoyer
+-  Fedora Linux user
+-  Learning software architecture and compiler design
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,c,cs,python,kotlin,ocaml,dotnet,postgres,docker,linux,git,neovim,bash&theme=dark" />
@@ -28,7 +28,7 @@
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vlm326&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -50,7 +50,7 @@
 
 ---
 
-# 📫 Contacts
+#  Contacts
 
 <p align="center">
   <a href="https://t.me/vlm326">
