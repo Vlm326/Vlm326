@@ -20,9 +20,3 @@ Backend and systems programming student at SPbU.
   <img src="https://skillicons.dev/icons?i=rust,c,cs,python,kotlin,ocaml,dotnet,postgres,docker,linux,git,neovim,bash&theme=dark" />
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vlm326&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlm326&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
