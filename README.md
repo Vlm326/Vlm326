@@ -1,12 +1,11 @@
-# Hi, I'm Vladislav Moroz
-
-Backend and systems programming student at SPbU.
+# Hi, I'm Vladislav 
+software engineering student at SPbU.
 
 ## About
 
 * Interested in backend development and systems programming
 * Rust enjoyer
-* Learning software architecture and compiler design
+* Learning software architecture and data storage systems
 
 ## Links
 
