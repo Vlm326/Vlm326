@@ -16,6 +16,6 @@ software engineering student at SPbU.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,c,cs,python,kotlin,ocaml,dotnet,postgres,docker,linux,git,neovim,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cs,python,kotlin,ocaml,dotnet,postgres,docker,linux,git,github,neovim,bash&theme=dark" />
 </p>
 
